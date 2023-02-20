@@ -1,6 +1,8 @@
 
 # Cab Ride Bookings & Click-Stream Analysis
 
+[about this case study](https://medium.com/@ravi.khandelwal23/cab-ride-bookings-click-stream-analysis-83cc32829ed0)
+
 ### Introduction
 
 Suppose company built system based on OLTP (on-Line Transaction Processing) . Since role of OLTP system is to provide better customer experience. OLTP System should be consistent, highly available and faster response time and backend storage of such system follows relational modelling (Normalisation) to update existing records, querying the data to reduce anomalies.
@@ -37,8 +39,6 @@ customer_id, app_version, os_version, lat, lon, page_id, button_id, is_button_cl
 
 
 ## Screenshots
-
-![App Screenshot](fig1.jpg)
 
 Since System should able to handle and process streaming data as well as batch data.
 
